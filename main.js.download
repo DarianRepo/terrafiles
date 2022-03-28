@@ -1,5 +1,0 @@
-var $ = document.getElementById;
-
-$("body").style.backgroundColor = "black";
-
-//Terrafiles.net is a skid, currently being dmcad
